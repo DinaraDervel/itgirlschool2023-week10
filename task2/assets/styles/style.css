@@ -1,0 +1,12 @@
+img {
+  width: 20vw;
+  max-width: 100%;
+}
+button {
+  width: 150px;
+}
+div {
+  display: flex;
+  justify-content: center;
+  gap: 20vw;
+}
