@@ -1,5 +1,5 @@
-let image = document.getElementById("dog-image");
-      let showPreviousImg = () =>
+const image = document.getElementById("dog-image");
+      const showPreviousImg = () =>
         (image.src = "assets/images/german-shepherd.jpg");
-      let showNextImg = () =>
+      const showNextImg = () =>
         (image.src = "assets/images/golden-retriever.jpg");
